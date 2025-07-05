@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+transformers
+torch
+accelerate
+prometheus-client
+python-dotenv
