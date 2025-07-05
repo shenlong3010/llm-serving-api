@@ -20,8 +20,8 @@ This project demonstrates how to build a production-ready LLM inference API usin
 - Intended for pipeline testing — not semantic quality
 
 ✅ You can upgrade to larger CPU-compatible models like:
-EleutherAI/gpt-neo-125M
-tiiuae/falcon-rw-1b
+- EleutherAI/gpt-neo-125M
+- tiiuae/falcon-rw-1b
 (all hosted on HuggingFace Hub — free to use)
 
 🛠 Tech Stack
